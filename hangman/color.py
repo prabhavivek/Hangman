@@ -1,6 +1,6 @@
 #
 # Colors
-# prabha
+# 
 
 endc = '\033[0m'
 magenta = '\033[95m'
