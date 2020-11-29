@@ -1,8 +1,0 @@
-Hangman:
- - print logo
- - ask user to say yes or no
- - if user says no, exit
-
- - if user yes continue
-   - show main menu
-
